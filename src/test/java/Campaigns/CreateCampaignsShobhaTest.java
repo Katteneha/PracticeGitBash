@@ -1,6 +1,7 @@
 package Campaigns;
 
 import static org.testng.Assert.assertEquals;
+//changes applied
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
